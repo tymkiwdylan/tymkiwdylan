@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
-<h3 align="center">Software Engineer @ Norte Developmetn LLC</h3>
+<h3 align="center">Software Engineer @ iAlex</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tymkiwdylan&label=Profile%20views&color=0e75b6&style=flat" alt="tymkiwdylan" /> </p>
 
 - 👨‍💻 Some projects available here: [https://github.com/tymkiwdylan](https://github.com/tymkiwdylan)
-- Currently working on [iA-Lex](https://ialex.com.ar)
+- Currently working on [iAlex](https://ialex.com.ar)
 - 📫 How to reach me **dylan@nortedev.net**
 
 
