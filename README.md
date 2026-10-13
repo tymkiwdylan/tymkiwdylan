@@ -6,6 +6,16 @@ My work spans legal technology, B2B discovery and messaging, inventory and sales
 
 [LinkedIn](https://www.linkedin.com/in/dylantymkiw23/) · [Email](mailto:dylan@nortedev.net)
 
+## Featured open source
+
+### [Tiptap Document Review](https://github.com/tymkiwdylan/tiptap-document-review)
+
+A rich-text document-review engine and interactive demo, extracted from document workflows I built for iAlex. Compare editable drafts, inspect grouped changes, accept or reject edits, undo decisions, and export the final document.
+
+**[Try the live demo →](https://tymkiwdylan.github.io/tiptap-document-review/)** · [Browse the source](https://github.com/tymkiwdylan/tiptap-document-review)
+
+TypeScript · Tiptap / ProseMirror · 24 unit tests · 6 browser tests · Apache-2.0
+
 ## Selected product work
 
 | Product | My work | Learn more |
@@ -17,10 +27,6 @@ My work spans legal technology, B2B discovery and messaging, inventory and sales
 | **Runa Code & Agroalva** | Web products and integrations, including a multilingual Next.js site, an operations system for Distrigas, and a web / mobile monorepo. | [Runa Code](https://runa-code.com) · [Agroalva source](https://github.com/Agroalva/landing-page) |
 
 These notes describe my contributions to private products; the implementations remain private.
-
-## Current focus
-
-I'm developing reusable Tiptap document-review tooling: compare rich-text drafts, review grouped changes, and accept or reject edits while preserving document structure. The project grows out of document workflows built for iAlex.
 
 ## Technologies I use
 
