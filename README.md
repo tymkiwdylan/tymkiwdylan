@@ -18,13 +18,9 @@ My work spans legal technology, B2B discovery and messaging, inventory and sales
 
 These notes describe my contributions to private products; the implementations remain private.
 
-## Public projects
+## Current focus
 
-- **[Finanzas Personales](https://github.com/tymkiwdylan/finanzas-personales)** — a Next.js personal finance application with income and expense workflows, statistics, Supabase authentication, Stripe integration, and PWA support.
-- **[alicIA](https://github.com/tymkiwdylan/alicIA-Backend)** — inventory APIs and an AI assistant built with Python, Flask, MongoDB, and Docker; paired with a [React frontend](https://github.com/tymkiwdylan/alicIA-FrontEnd).
-- **[Smart Mozo](https://github.com/tymkiwdylan/smart-mozo)** — restaurant menus, staff, and order workflows using React, Flask, and Socket.IO.
-- **[Colby Rideshare](https://github.com/colby-rideshare/colby-rideshare)** — a collaborative Django application for campus rides. My contributions included maps integration, ride-list UI, and a time picker.
-- **[Bantam Java IDE](https://github.com/tymkiwdylan/BantamJavaIDE)** — a semester project built with two classmates, including a Bantam-to-Java transpiler and pretty printer.
+I'm developing reusable Tiptap document-review tooling: compare rich-text drafts, review grouped changes, and accept or reject edits while preserving document structure. The project grows out of document workflows built for iAlex.
 
 ## Technologies I use
 
@@ -34,4 +30,4 @@ These notes describe my contributions to private products; the implementations r
 
 **Integrations and operations:** AI SDK, Redis / BullMQ, WebSockets, Stripe, Docker, Google Cloud.
 
-Earlier team and research contributions include an athlete management application, Python code-feedback tooling, and a Unity game. [Browse the contribution overview →](CONTRIBUTIONS.md)
+[More product and engineering contributions →](CONTRIBUTIONS.md)
